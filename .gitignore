@@ -1,0 +1,14 @@
+venv/
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+/src/server_backend/staticfiles/
+/frondent/build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
